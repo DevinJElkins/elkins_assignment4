@@ -1,0 +1,15 @@
+this
+is
+the
+text
+file
+for
+program
+created
+in
+java
+language
+to
+remove
+duplicate
+words

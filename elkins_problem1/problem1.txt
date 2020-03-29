@@ -1,0 +1,1 @@
+this is the text file for the program created in the java language to remove the duplicate words
